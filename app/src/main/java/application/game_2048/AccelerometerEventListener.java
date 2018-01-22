@@ -1,7 +1,4 @@
 package application.game_2048;
-/**
- * Created by keith on 2017-01-31.
- */
 
         import android.graphics.Color;
         import android.hardware.Sensor;
