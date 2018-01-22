@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        //rl = (RelativeLayout) findViewById(R.id.layout1);
+        rl = findViewById(R.id.layout1);
         rl.getLayoutParams().width = GAMEBOARD_DIMENSION;
         rl.getLayoutParams().height = GAMEBOARD_DIMENSION;
 
